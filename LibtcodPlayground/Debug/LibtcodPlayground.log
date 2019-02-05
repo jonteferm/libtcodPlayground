@@ -1,0 +1,13 @@
+﻿  main.cpp
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(144): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(166): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(167): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(240): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(241): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\dev\workspace\libtcodplayground\libtcodplayground\main.cpp(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LibtcodPlayground.vcxproj -> G:\Dev\Workspace\LibtcodPlayground\Debug\LibtcodPlayground.exe
